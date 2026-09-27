@@ -7,6 +7,7 @@ US Visa approval prediction using ML, MongoDB, and MLOps.
 - Flowchart: [https://whimsical.com/](https://whimsical.com/)
 - MLOPs Tool: [https://www.evidentlyai.com/](https://www.evidentlyai.com/)
 - MongoDB: https://account.mongodb.com/account/login
+- Data link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 
 ## Git commands
